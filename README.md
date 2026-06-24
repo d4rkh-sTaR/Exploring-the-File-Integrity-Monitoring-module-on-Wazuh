@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+![Project overview image](./project_overview.png)
+
 Building on our previous AWS CloudTrail integration, this project focuses on Wazuh's File Integrity Monitoring (FIM). We will deploy an Apache web server and configure Wazuh to monitor the uploads directory for any file creations, modifications, or deletions.
 
 The project will be divided into 3 sections:
